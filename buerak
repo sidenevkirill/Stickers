@@ -1,0 +1,135 @@
+{
+  "id": "buerak",
+  "title": "Буерак",
+  "description": "SEND NUDES",
+  "duration": 10460,
+  "public": true,
+  "is_loved_track": false,
+  "collaborative": false,
+  "nb_tracks": 15,
+  "fans": 82456,
+  "link": "https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/master/buerak",
+  "share": "https://www.deezer.com/playlist/4696861764?utm_source=deezer&utm_content=playlist-4696861764&utm_term=0_1569846384&utm_medium=web",
+  "picture": "https://api.deezer.com/playlist/4696861764/image",
+  "picture_small": "https://sun9-9.userapi.com/c854328/v854328481/194431/Y9426nfBuYE.jpg",
+  "picture_medium": "https://sun9-9.userapi.com/c854328/v854328481/194431/Y9426nfBuYE.jpg",
+  "picture_big": "https://sun9-9.userapi.com/c854328/v854328481/194431/Y9426nfBuYE.jpg",
+  "picture_xl": "https://sun9-9.userapi.com/c854328/v854328481/194431/Y9426nfBuYE.jpg",
+  "checksum": "f5a00d10be398f6fab7f269f0ba0b3d8",
+  "tracklist": "https://api.deezer.com/playlist/4696861764/tracks",
+  "creation_date": "2018-07-23 13:50:03",
+  "creator": {
+    "id": "1990304482",
+    "name": "Deezer Artist Editor",
+    "tracklist": "https://api.deezer.com/user/1990304482/flow",
+    "type": "user"
+  },
+  "type": "playlist",
+  "tracks": {
+    "data": [
+      {
+        "id": "tracks",
+        "readable": true,
+        "title": "JACKBOYS",
+        "title_short": "Сенд нюдс",
+        "title_version": "",
+        "link": "https://muzek.000webhostapp.com/JACKBOYS/JACKBOYS%20-%20JACKBOYS.mp3",
+        "duration": "1",
+        "rank": "992305",
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 0,
+        "preview": "https://muzek.000webhostapp.com/JACKBOYS/JACKBOYS%20-%20JACKBOYS.mp3",
+        "time_add": 1532679889,
+        "artist": {
+          "id": "412",
+          "name": "Queen",
+          "link": "https://www.deezer.com/artist/412",
+          "tracklist": "https://api.deezer.com/artist/412/top?limit=50",
+          "type": "artist"
+        },
+        "album": {
+          "id": "915785",
+          "title": "A Night At The Opera (2011 Remaster)",
+          "cover": "https://api.deezer.com/album/915785/image",
+          "cover_small": "https://cdns-images.dzcdn.net/images/cover/6706f1154083f461a348508c28030a30/56x56-000000-80-0-0.jpg",
+          "cover_medium": "https://cdns-images.dzcdn.net/images/cover/6706f1154083f461a348508c28030a30/250x250-000000-80-0-0.jpg",
+          "cover_big": "https://cdns-images.dzcdn.net/images/cover/6706f1154083f461a348508c28030a30/500x500-000000-80-0-0.jpg",
+          "cover_xl": "https://cdns-images.dzcdn.net/images/cover/6706f1154083f461a348508c28030a30/1000x1000-000000-80-0-0.jpg",
+          "tracklist": "https://api.deezer.com/album/915785/tracks",
+          "type": "album"
+        },
+        "type": "track"
+      },
+      {
+        "id": "12209331",
+        "readable": true,
+        "title": "Буерак",
+        "title_short": "Буерак",
+        "title_version": "",
+        "link": "https://cs1-40v4.vkuseraudio.net/p1/c714fb3e1fe704.mp3?extra=Kqkqa_clxOq1TnfaxqVm0ln_AV0Ch-_AHu8xPnGsSwXRAfMU31CRS7b3NC6hjoom-Ve5DLq1hU1CR22U2cAxmv43sE6MjMkk256BS5nJrbV7wCw9ZHSpf_5T31dC4EsU9GXaOBYaH3wfLxOi5Qa_PM8Yleih",
+        "duration": "2",
+        "rank": "949599",
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 0,
+        "preview": "https://muzek.000webhostapp.com/JACKBOYS/Don%20Toliver%20feat.%20Quavo,%20Offset%20-%20HAD%20ENOUGH.mp3",
+        "time_add": 1532679889,
+        "artist": {
+          "id": "412",
+          "name": "Queen",
+          "link": "https://www.deezer.com/artist/412",
+          "tracklist": "https://api.deezer.com/artist/412/top?limit=50",
+          "type": "artist"
+        },
+        "album": {
+          "id": "1121401",
+          "title": "Jazz (2011 Remaster)",
+          "cover": "https://api.deezer.com/album/1121401/image",
+          "cover_small": "https://cdns-images.dzcdn.net/images/cover/fb22a75aa1aafc992230abd0bd79faef/56x56-000000-80-0-0.jpg",
+          "cover_medium": "https://cdns-images.dzcdn.net/images/cover/fb22a75aa1aafc992230abd0bd79faef/250x250-000000-80-0-0.jpg",
+          "cover_big": "https://cdns-images.dzcdn.net/images/cover/fb22a75aa1aafc992230abd0bd79faef/500x500-000000-80-0-0.jpg",
+          "cover_xl": "https://cdns-images.dzcdn.net/images/cover/fb22a75aa1aafc992230abd0bd79faef/1000x1000-000000-80-0-0.jpg",
+          "tracklist": "https://api.deezer.com/album/1121401/tracks",
+          "type": "album"
+        },
+        "type": "track"
+      },
+      {
+        "id": "9997015",
+        "readable": true,
+        "title": "Боль",
+        "title_short": "Исповедь",
+        "title_version": "",
+        "link": "https://cs1-77v4.vkuseraudio.net/p24/df95ee4de51624.mp3?extra=fBVhUAxQ9fgUjC_161z3aDzkUs0ixD-5QlBMltWdVmN7zg6wg5EdRKlp6r8htI3N9c3unPvCSefkuaS3MuUwMYFjgkFz5TNADAQSDQLZ0hrz4bPaOB1atutud4DJWIWv0GbCrZBZY3d_FlZgNpNuXi6ZIFQu",
+        "duration": "3",
+        "rank": "589105",
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 0,
+        "preview": "https://muzek.000webhostapp.com/JACKBOYS/Travis%20Scott%20feat.%20ROSAL%C3%8DA,%20Lil%20Baby%20-%20HIGHEST%20IN%20THE%20ROOM.mp3",
+        "time_add": 1539101900,
+        "artist": {
+          "id": "412",
+          "name": "Queen",
+          "link": "https://www.deezer.com/artist/412",
+          "tracklist": "https://api.deezer.com/artist/412/top?limit=50",
+          "type": "artist"
+        },
+        "album": {
+          "id": "1236003",
+          "title": "Made In Heaven (Deluxe Edition 2011 Remaster)",
+          "cover": "https://api.deezer.com/album/1236003/image",
+          "cover_small": "https://cdns-images.dzcdn.net/images/cover/20adfb09ef5afd27ddcdd830780efcf1/56x56-000000-80-0-0.jpg",
+          "cover_medium": "https://cdns-images.dzcdn.net/images/cover/20adfb09ef5afd27ddcdd830780efcf1/250x250-000000-80-0-0.jpg",
+          "cover_big": "https://cdns-images.dzcdn.net/images/cover/20adfb09ef5afd27ddcdd830780efcf1/500x500-000000-80-0-0.jpg",
+          "cover_xl": "https://cdns-images.dzcdn.net/images/cover/20adfb09ef5afd27ddcdd830780efcf1/1000x1000-000000-80-0-0.jpg",
+          "tracklist": "https://api.deezer.com/album/1236003/tracks",
+          "type": "album"
+        },
+        "type": "track"
+      }
+    ],
+    "checksum": "f5a00d10be398f6fab7f269f0ba0b3d8"
+  }
+}

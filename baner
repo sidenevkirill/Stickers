@@ -1,0 +1,101 @@
+{
+  "data": [
+  {
+      "id": shazam,
+      "title": "Flowmastaz",
+      "name": "Новый куратор",
+      "logo": "https://e-cdns-images.dzcdn.net/images/misc/853a37e998cc06074bfa3fb61c368ef2/134x264-000000-80-0-0.jpg",
+      "public": true,
+      "nb_tracks": 1,
+      "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/shazam",
+      "logo": "",
+      "picture": "https://api.deezer.com/playlist/4696861764/image",
+      "picture_small": "https://www.cnews.cz/wp-content/uploads/2018/09/shazam-flat-logo-1600.png",
+      "picture_medium": "https://e-cdns-images.dzcdn.net/images/misc/853a37e998cc06074bfa3fb61c368ef2/134x264-000000-80-0-0.jpg",
+      "picture_big": "https://www.cnews.cz/wp-content/uploads/2018/09/shazam-flat-logo-1600.png",
+      "picture_xl": "https://www.cnews.cz/wp-content/uploads/2018/09/shazam-flat-logo-1600.png",
+      "checksum": "f5a00d10be398f6fab7f269f0ba0b3d8",
+      "tracklist": "https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/master/tracks",
+      "creation_date": "2018-07-23 13:50:03",
+      "user": {
+        "id": 1990304482,
+        "name": "",
+        "tracklist": "https://api.deezer.com/user/1990304482/flow",
+        "type": "user"
+      },
+      "type": "playlist"
+    },
+    {
+      "id": shazam,
+      "title": "ДОРА",
+      "name": "Новый альбом Боже, храни кьют-рок",
+      "public": true,
+      "nb_tracks": 1,
+      "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/shazam",
+      "logo": "",
+      "picture": "https://api.deezer.com/playlist/4696861764/image",
+      "picture_small": "https://www.cnews.cz/wp-content/uploads/2018/09/shazam-flat-logo-1600.png",
+      "picture_medium": "https://e-cdns-images.dzcdn.net/images/misc/b8ae8f0791f5e9e6c7a11bab94b0cbad/134x264-000000-80-0-0.jpg",
+      "picture_big": "https://www.cnews.cz/wp-content/uploads/2018/09/shazam-flat-logo-1600.png",
+      "picture_xl": "https://www.cnews.cz/wp-content/uploads/2018/09/shazam-flat-logo-1600.png",
+      "checksum": "f5a00d10be398f6fab7f269f0ba0b3d8",
+      "tracklist": "https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/master/tracks",
+      "creation_date": "2018-07-23 13:50:03",
+      "user": {
+        "id": 1990304482,
+        "name": "",
+        "tracklist": "https://api.deezer.com/user/1990304482/flow",
+        "type": "user"
+      },
+      "type": "playlist"
+    },
+    {
+      "id": limba,
+      "title": "Сохрани мою речь навсегда",
+      "name": "Трибьют-альбомомк юбилею Осипа Мандельштама",
+      "public": true,
+      "nb_tracks": 2,
+      "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/limba",
+      "picture": "https://api.deezer.com/playlist/1819888242/image",
+      "picture_small": "https://zvuk.com/static/avatar/playlist/267/ef9/5460882.3c1564b.png",
+      "picture_medium": "https://e-cdns-images.dzcdn.net/images/misc/2b15578cf12902c0c7d2ae07e8071460/134x264-000000-80-0-0.jpg",
+      "picture_big": "https://zvuk.com/static/avatar/playlist/267/ef9/5460882.3c1564b.png",
+      "picture_xl": "https://e-cdns-images.dzcdn.net/images/misc/8ad3050b34360d0573d9d7b8bf38997d/134x264-000000-80-0-0.jpg",
+      "checksum": "b61c1daae00f0eebca8eb7204e10f757",
+      "tracklist": "https://api.deezer.com/playlist/1819888242/tracks",
+      "creation_date": "2016-05-13 10:03:06",
+      "user": {
+        "id": 198225115,
+        "name": "",
+        "tracklist": "https://api.deezer.com/user/198225115/flow",
+        "type": "user"
+      },
+      "type": "playlist"
+    },
+    {
+      "id": nurminskiy,
+      "title": "INSTASAMKA MONEYKEN",
+      "name": "СЕМЕЙНЫЙ БИЗНЕС",
+      "public": true,
+      "nb_tracks": 10,
+      "link": "https://raw.githubusercontent.com/sidenevkirill/MOOZ/master/nurminskiy",
+      "picture": "https://api.deezer.com/playlist/2571495004/image",
+      "picture_small": "https://e-cdns-images.dzcdn.net/images/misc/6154c9fbd99a356ad269656ee88b0820/134x264-000000-80-0-0.jpg",
+      "picture_medium": "https://e-cdns-images.dzcdn.net/images/misc/6154c9fbd99a356ad269656ee88b0820/134x264-000000-80-0-0.jpg",
+      "picture_big": "https://e-cdns-images.dzcdn.net/images/misc/6154c9fbd99a356ad269656ee88b0820/134x264-000000-80-0-0.jpg",
+      "picture_xl": "https://e-cdns-images.dzcdn.net/images/misc/6154c9fbd99a356ad269656ee88b0820/134x264-000000-80-0-0.jpg",
+      "checksum": "fa0d327611b57f535fa36e393629dd39",
+      "tracklist": "https://api.deezer.com/playlist/2571495004/tracks",
+      "creation_date": "2016-12-17 16:27:44",
+      "user": {
+        "id": 365093555,
+        "name": "Нурминский",
+        "tracklist": "https://api.deezer.com/user/365093555/flow",
+        "type": "user"
+      },
+      "type": "playlist"
+    }
+  ],
+  "total": 300,
+  "next": "https://api.deezer.com/search/playlist?q=queen&output=jsonp&version=js-v1.0.0&callback=DZ.request.callbacks.dzcb_005d91f1ee1383b0f_891877910&index=25"
+}
